@@ -1,4 +1,3 @@
-const FOURTY_SECOND_KEY = 41;
 const LIST_POLICES_AND_ENCRYPTIONS = `8-10 r: ozrcdfnug
 9-10 q: hvsazxrigf
 1-9 j: bbqonxjt
